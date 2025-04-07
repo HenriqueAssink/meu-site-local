@@ -10,4 +10,4 @@ O projeto consiste em um site simples hospedado no GitHub Pages, usando um templ
 
 Você pode acessar o site publicado através do GitHub Pages neste link:
 
-[Clique aqui para acessar o site](https://SEU_USUÁRIO.github.io/NOME_DO_REPOSITÓRIO)
+[Clique aqui para acessar o site](https://henriqueassink.github.io/meu-site-local/)
